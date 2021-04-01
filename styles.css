@@ -3,7 +3,7 @@ body {
 width: 1440px;
 height: 100vh;
 background-color:  hsl(185, 75%, 39%);
-background-image:url('file:///C:/Users/Owner/Desktop/challenge/first%20challenge/bg-pattern-top.svg'), url('file:///C:/Users/Owner/Desktop/challenge/first%20challenge/bg-pattern-bottom.svg') ;
+background-image:url('file:///C:/Users/Owner/Desktop/challenge/first%20challenge/Profile-card-HTML-CSS/bg-pattern-top.svg'), url('file:///C:/Users/Owner/Desktop/challenge/first%20challenge/Profile-card-HTML-CSS/bg-pattern-bottom.svg') ;
 background-position:  right 47vw bottom 43vh, left 50vw top 40vh;
 background-repeat: no-repeat;
 overflow: hidden;
@@ -19,7 +19,7 @@ overflow: hidden;
   border-radius: 3%;
   
   background-color: white;
-  background-image: url('file:///C:/Users/Owner/Desktop/challenge/first%20challenge/images/bg-pattern-card.svg');
+  background-image: url('file:///C:/Users/Owner/Desktop/challenge/first%20challenge/Profile-card-HTML-CSS/images/bg-pattern-card.svg');
   background-size:  101% 120px;
   background-repeat: no-repeat;
 
@@ -51,13 +51,13 @@ img{
  font-weight: 1000;
  }
  
- #age{
+#age{
    color: hsl(0, 0%, 59%);
    margin-left: 5px;
    font-weight: 470;
    }
 
-   .line2{
+.line2{
     color: hsl(0, 0%, 59%);
     font-weight:3; 
     font-size: 13.5px;
